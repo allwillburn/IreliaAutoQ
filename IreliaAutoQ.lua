@@ -11,5 +11,5 @@ OnTick(function (myHero)
 			CastSpell(_Q)
 			AttackUnit(minion)
 		end
-  end
+        end
 end)
